@@ -1,0 +1,9 @@
+Repositorio: es la carpeta donde git guarda todo
+tu cogido actual, mas todo el historial 
+de cambios
+
+commit: es una foto guardada de tu codigo en un momento exacto
+con un mensaje que explique que cambiaste
+
+push: push manda los commits que tiene en tu Repositorio 
+local al Repositorio remoto
